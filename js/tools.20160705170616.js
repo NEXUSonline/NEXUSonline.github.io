@@ -23,7 +23,7 @@ var a='data-src'; if($('.js-361').hasAttr('src')) { a='src'; } $('.js-361').attr
 if(!window.HTMLPictureElement){r();}
 sm();
 initMenu($('#menu-6')[0]);
-$('.cont-232').Stickyfill();
+$('.cont-234').Stickyfill();
 $('.js-288').unveil(50);
 $('.js-364 source').unveil(50);
 $('.js-291').unveil(50);
